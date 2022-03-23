@@ -7,7 +7,12 @@ git branch [/]
 $ git config --list 
 q
 
+alias graph="git log --all --decorate --oneline --graph"
+
 coba akun git yang kalbis  
 git config --global user.name ""
 git config --global user.email ""
 git commit -am "tambah latihan"
+git fetch
+to check commit the repository
+git pull ()=> untul mengatasi conflict
