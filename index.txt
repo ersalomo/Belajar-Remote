@@ -1,0 +1,6 @@
+ini adalah
+git remote 
+git remote -v
+git clone https://github.com/......
+git checkout
+git branch [/]
