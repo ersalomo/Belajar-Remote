@@ -4,3 +4,10 @@ git remote -v
 git clone https://github.com/......
 git checkout
 git branch [/]
+$ git config --list 
+q
+
+coba akun git yang kalbis  
+git config --global user.name ""
+git config --global user.email ""
+git commit -am "tambah latihan"
